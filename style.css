@@ -1,6 +1,6 @@
 @import 'https://fonts.googleapis.com/css?family=Lily+Script+One';
 body {
-  background: green;
+  background: #eee;
   font-family: 'Lily Script One';
   display: flex;
   justify-content: space-around;
